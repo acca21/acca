@@ -14,7 +14,7 @@ Kyve, Stride, Sei, Starknet, Massa, Ironfish, Aleo, Minima
 
 ### ⚙️ **My past Testnet/Mainnet validators:**
 
-Aptos, Nym, Casper, Hopr, Evmos, Flare, Frontier, Humanode, Idep, Keep, Graph, Spacemesh, Subspace, Subquery, Rizon, Solana, Taraxa, Straros
+Aptos, Nym, Casper, Hopr, Evmos, Flare, Frontier, Humanode, Idep, Keep, Graph, Spacemesh, Subspace, Subquery, Rizon, Solana, Taraxa, Stratos
 
 ### :fire:  **Hardware:**
 Location - Hetzner, Finland
