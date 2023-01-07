@@ -25,7 +25,7 @@ Memory - 2×960 GB SSD NVMe
 
 Bandwidth - 1 Gbit/s-Port
 
-### :boom: **Socials:**
+### :flying_saucer: **Socials:**
 
 GitHub: https://github.com/acca21
 
