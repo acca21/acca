@@ -6,8 +6,7 @@ Hello everyone, My name is Igor, i am a DIT in films production, Technical Speci
 - I have more than 3 years of experience in running nodes on various mainnets and testnets.
 
 ### ⚙️ **My current Mainnet validators:**
-
-Forta: https://explorer.forta.network/scan-node/0x5adCa4A86aFE324E7db715db48d8966Deb8dBA8a
+<img height="30px" src="https://user-images.githubusercontent.com/77932609/211166389-870108e6-d0b9-474c-9d8b-27d3dd461ac8.jpg"> - <a href="https://explorer.forta.network/scan-node/0x5adCa4A86aFE324E7db715db48d8966Deb8dBA8a" target="_blank" rel="noopener noreferrer">Forta</a>
 
 ### ⚙️ **My current Testnet validators:**
 
@@ -32,7 +31,7 @@ GitHub: https://github.com/acca21
 
 Twitter: https://twitter.com/baby232318
 
-Discord: https://discord.com/users/307176536463638528/
+Discord: <a href="https://discordapp.com/users/307176536463638528/" target="_blank" rel="noopener noreferrer">acca#3077</a>
 
 
 - Enjoy your stay!:love_you_gesture:
