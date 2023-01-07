@@ -32,7 +32,7 @@ GitHub: https://github.com/acca21
 
 Twitter: https://twitter.com/baby232318
 
-Discord: acca#3077
+Discord: https://discord.com/users/307176536463638528/
 
 
 - Enjoy your stay!:love_you_gesture:
